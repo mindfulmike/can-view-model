@@ -30,29 +30,29 @@
   ],
   "dependencies": {
     "can-namespace": "1.0.0",
-    "can-simple-map": "^3.0.0",
-    "can-types": "^1.0.1",
-    "can-util": "^3.1.1"
+    "can-simple-map": "3.0.0",
+    "can-types": "1.0.1",
+    "can-util": "3.1.1"
   },
   "devDependencies": {
-    "can-define": "^1.0.5",
-    "can-map": "^3.0.3",
+    "can-define": "1.0.5",
+    "can-map": "3.0.3",
     "bit-docs": "0.0.7",
-    "done-serve": "^0.2.0",
-    "donejs-cli": "^0.9.5",
-    "generator-donejs": "^0.9.0",
-    "jshint": "^2.9.1",
-    "steal": "^1.0.1",
-    "steal-qunit": "^1.0.0",
-    "steal-tools": "^1.0.0",
-    "testee": "^0.3.0"
+    "done-serve": "0.2.0",
+    "donejs-cli": "0.9.5",
+    "generator-donejs": "0.9.0",
+    "jshint": "2.9.1",
+    "steal": "1.0.1",
+    "steal-qunit": "1.0.0",
+    "steal-tools": "1.0.0",
+    "testee": "0.3.0"
   },
   "bit-docs": {
     "dependencies": {
-      "bit-docs-glob-finder": "^0.0.5",
-      "bit-docs-dev": "^0.0.3",
-      "bit-docs-js": "^0.0.3",
-      "bit-docs-generate-readme": "^0.0.8"
+      "bit-docs-glob-finder": "0.0.5",
+      "bit-docs-dev": "0.0.3",
+      "bit-docs-js": "0.0.3",
+      "bit-docs-generate-readme": "0.0.8"
     },
     "glob": {
       "pattern": "**/*.{js,md}",
