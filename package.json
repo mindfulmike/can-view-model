@@ -32,7 +32,7 @@
     "can-namespace": "1.0.0",
     "can-simple-map": "3.0.0",
     "can-types": "1.0.1",
-    "can-util": "3.1.1"
+    "can-util": "git://github.com/mindfulmike/can-util.git#v3.3.8"
   },
   "devDependencies": {
     "can-define": "1.0.5",
